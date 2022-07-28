@@ -1,3 +1,5 @@
+# tartibni buzmasdan hosil qila olish mumkin bo`lgan so`zlarning sonini aniqlash
+
 class Solution:
   def numMatchingSubseq(self, s, ws):
     n = len(ws)
